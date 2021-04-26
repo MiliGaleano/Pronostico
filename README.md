@@ -1,3 +1,19 @@
+# Pronóstico!
+
+Chequea el clima actual y extendido del lugar donde estás y de cualquier ciudad del mundo!
+Check the weather for any place in the world!
+
+## Build with:
+
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
+- [Unsplash API](https://unsplash.com/developers) - For beautiful photos
+- [Openweather API](https://openweathermap.org/api) - For weather info
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
