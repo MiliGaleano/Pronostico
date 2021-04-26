@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Pronostico/static/js/main.ff9fecd5.chunk.js",
+    "main.js.map": "/Pronostico/static/js/main.ff9fecd5.chunk.js.map",
+    "runtime-main.js": "/Pronostico/static/js/runtime-main.9ae19dc1.js",
+    "runtime-main.js.map": "/Pronostico/static/js/runtime-main.9ae19dc1.js.map",
+    "static/js/2.25584c09.chunk.js": "/Pronostico/static/js/2.25584c09.chunk.js",
+    "static/js/2.25584c09.chunk.js.map": "/Pronostico/static/js/2.25584c09.chunk.js.map",
+    "index.html": "/Pronostico/index.html",
+    "static/js/2.25584c09.chunk.js.LICENSE.txt": "/Pronostico/static/js/2.25584c09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae19dc1.js",
+    "static/js/2.25584c09.chunk.js",
+    "static/js/main.ff9fecd5.chunk.js"
+  ]
+}
